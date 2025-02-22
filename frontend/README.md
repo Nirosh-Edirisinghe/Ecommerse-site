@@ -1,8 +1,21 @@
-# React + Vite
+# E-Commerce Website 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern eCommerce website built using **React.js** and **Tailwind CSS**. The project showcases a fully functional home page featuring the latest products, best-selling products, a newsletter subscription box, and a footer.
 
-Currently, two official plugins are available:
+## 📌 Features
+- 🏠 **Home Page** – Showcases featured products.
+- 🛒 **Latest Products** – Displays new arrivals.
+- 🔥 **Best Selling Products** – Highlights top-rated items.
+- 📩 **Newsletter Subscription** – Users can subscribe for updates.
+- ⚡ **Responsive Design** – Fully optimized for all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Styling
+- **React Router** – Navigation
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+git clone https://github.com/Nirosh-Edirisinghe/ecommerce-react.git
+
